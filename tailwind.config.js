@@ -16,7 +16,8 @@ module.exports = {
         primary: '#590BD8',
         secondary: '#312A4F',
         primary100: '#DDD5EA',
-        warning: '#FE3838'
+        warning: '#FE3838',
+        bgray: '#717171'
       },
       textColor: {
         tc800: '#717171',
